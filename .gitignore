@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 機密與本機狀態（嚴禁提交）
+.env
+*.key
+*_api_key
+secrets/
+.codex/
+來源工具舊設定資料夾/
+auth.json
+*.pem
+*.token
+
+# Claude 本機設定
+.claude/settings.local.json
+
+# Python / 工具 runtime
+__pycache__/
+*.pyc
+.venv/
+200_Reference/scripts/runtime/.venv/
+
+# Node
+node_modules/
+
+# 日誌與暫存
+*.log
+tmp/
+.cache/
