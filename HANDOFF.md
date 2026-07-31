@@ -10,6 +10,7 @@
   - 200_Reference/scripts/healthcheck.sh（唯讀環境健檢，本機實測通過 29/注意 1/缺失 0）
 - 三支腳本皆通過語法檢查；healthcheck.sh 已在本機實測。
 - Obsidian 駕駛艙已建立於 專案庫/claude_installation/專案工作流程.md。
+- LazyPack 已鏡像至 Obsidian：專案庫/claude_installation/懶人包/01-claude-lazypack.md（diff -qr 與 repo 一致）。
 - 本機環境健檢已通過（含補裝 Poppler 26.07.0）。
 
 ## Next action
