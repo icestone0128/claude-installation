@@ -12,10 +12,12 @@
 - Obsidian 駕駛艙已建立於 專案庫/claude_installation/專案工作流程.md。
 - LazyPack 已鏡像至 Obsidian：專案庫/claude_installation/懶人包/01-claude-lazypack.md（diff -qr 與 repo 一致）。
 - 本機環境健檢已通過（含補裝 Poppler 26.07.0）。
+- 2026-08-01：Google Drive 專案重組 — 本專案連同 13 個 git 專案已移入 `我的雲端硬碟/agentic_projects/`（codex_symlink、secondbrain 未動）。全域 symlink、chezmoi syncRoot、健檢皆正常；config.toml、codex_symlink、secondbrain、各專案內部絕對路徑已全面修正並驗證 0 殘留。
 
 ## Next action
 - 視需要補充 writing-samples/past-work 實際素材；或依 antigravity 對應表補充後續 LazyPack 編號。
 - 未在新機實跑過 setup.sh 全流程（本機已設定，僅語法驗證 + healthcheck 實測）。
+- 受路徑修正影響的其他 repo 可視需要各自 commit/push（本 session 已協助 commit）。
 
 ## Blockers
 - 無。
